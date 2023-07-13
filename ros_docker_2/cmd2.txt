@@ -1,5 +1,5 @@
 socat TCP-LISTEN:6000,reuseaddr,fork UNIX-CLIENT:\"$DISPLAY\"
-docker-compose -f ./ros_docker_2.yml up
+docker-compose -f /Users/sdg/Documents/modu_lab_partner_bot/ros_docker_2.yml up
 docker exec -it ros-ros2_2 /bin/bash
 
 apt update
