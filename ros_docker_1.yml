@@ -1,14 +1,14 @@
 name: ros 
 services:
-  ros2:
+  ros2_1:
     image: ros:humble
-    container_name: ros-ros2
+    container_name: ros-ros2_1
     environment:
       DISPLAY: host.docker.internal:0.0
     ports:
       - "10000:10000"
     volumes:
-      - "/Users/sdg/Documents/modu_study:/root/host_dir"
+      - "/Users/sdg/Documents/modu_lab_partner_bot/ros_docker_1:/root/host_dir"
     stdin_open: true
     tty: true
     entrypoint: /bin/bash

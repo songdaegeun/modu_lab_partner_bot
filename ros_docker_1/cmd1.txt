@@ -1,0 +1,12 @@
+socat TCP-LISTEN:6000,reuseaddr,fork UNIX-CLIENT:\"$DISPLAY\"
+docker-compose -f ./ros_docker_1.yml up
+docker exec -it ros-ros2_1 /bin/bash
+
+apt update
+apt install vim -y
+apt install ros-humble-rqt* -y
+apt install ros-humble-turtlesim -y
+apt install ros-humble-demo-nodes-cpp -y
+
+echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
+echo "export ROS_DOMAIN_ID=97" >> ~/.bashrc
