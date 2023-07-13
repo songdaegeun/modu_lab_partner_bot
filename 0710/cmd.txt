@@ -1,0 +1,5 @@
+docker-compose -f ./ros.yml up
+docker exec -it ros-ros2 /bin/bash
+
+echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
+echo "export ROS_DOMAIN_ID=97" >> ~/.bashrc
