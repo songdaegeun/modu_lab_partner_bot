@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating ros_tutorial.egg-info
+writing ros_tutorial.egg-info/PKG-INFO
+writing dependency_links to ros_tutorial.egg-info/dependency_links.txt
+writing entry points to ros_tutorial.egg-info/entry_points.txt
+writing requirements to ros_tutorial.egg-info/requires.txt
+writing top-level names to ros_tutorial.egg-info/top_level.txt
+writing manifest file 'ros_tutorial.egg-info/SOURCES.txt'
+reading manifest file 'ros_tutorial.egg-info/SOURCES.txt'
+writing manifest file 'ros_tutorial.egg-info/SOURCES.txt'
+running build_ext
+Creating /root/host_dir/Workspace/ros_ws/src/ros_tutorial/install/ros_tutorial/lib/python3.10/site-packages/ros-tutorial.egg-link (link to .)
+
+Installed /root/host_dir/Workspace/ros_ws/src/ros_tutorial/build/ros_tutorial
+running install_data
+creating /root/host_dir/Workspace/ros_ws/src/ros_tutorial/install/ros_tutorial/share/ament_index
+creating /root/host_dir/Workspace/ros_ws/src/ros_tutorial/install/ros_tutorial/share/ament_index/resource_index
+creating /root/host_dir/Workspace/ros_ws/src/ros_tutorial/install/ros_tutorial/share/ament_index/resource_index/packages
+copying resource/ros_tutorial -> /root/host_dir/Workspace/ros_ws/src/ros_tutorial/install/ros_tutorial/share/ament_index/resource_index/packages
+copying package.xml -> /root/host_dir/Workspace/ros_ws/src/ros_tutorial/install/ros_tutorial/share/ros_tutorial
+creating /root/host_dir/Workspace/ros_ws/src/ros_tutorial/install/ros_tutorial/share/ros_tutorial/launch
+copying launch/turtlesim.launch.py -> /root/host_dir/Workspace/ros_ws/src/ros_tutorial/install/ros_tutorial/share/ros_tutorial/launch

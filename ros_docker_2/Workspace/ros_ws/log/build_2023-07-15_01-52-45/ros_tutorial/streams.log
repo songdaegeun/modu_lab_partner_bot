@@ -1,0 +1,29 @@
+[0.278s] Invoking command in '/root/Workspace/ros_ws/build/ros_tutorial': PYTHONPATH=/root/Workspace/ros_ws/build/ros_tutorial/prefix_override:/root/Workspace/ros_ws/install/ros_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /root/Workspace/ros_ws/build/ros_tutorial/build --no-deps install_data
+[0.387s] running develop
+[0.387s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.387s]   warnings.warn(
+[0.388s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.388s]   warnings.warn(
+[0.439s] running egg_info
+[0.439s] creating ros_tutorial.egg-info
+[0.439s] writing ros_tutorial.egg-info/PKG-INFO
+[0.439s] writing dependency_links to ros_tutorial.egg-info/dependency_links.txt
+[0.439s] writing entry points to ros_tutorial.egg-info/entry_points.txt
+[0.440s] writing requirements to ros_tutorial.egg-info/requires.txt
+[0.440s] writing top-level names to ros_tutorial.egg-info/top_level.txt
+[0.440s] writing manifest file 'ros_tutorial.egg-info/SOURCES.txt'
+[0.441s] reading manifest file 'ros_tutorial.egg-info/SOURCES.txt'
+[0.441s] writing manifest file 'ros_tutorial.egg-info/SOURCES.txt'
+[0.442s] running build_ext
+[0.442s] Creating /root/Workspace/ros_ws/install/ros_tutorial/lib/python3.10/site-packages/ros-tutorial.egg-link (link to .)
+[0.442s] 
+[0.442s] Installed /root/Workspace/ros_ws/build/ros_tutorial
+[0.442s] running install_data
+[0.442s] creating /root/Workspace/ros_ws/install/ros_tutorial/share/ament_index
+[0.442s] creating /root/Workspace/ros_ws/install/ros_tutorial/share/ament_index/resource_index
+[0.442s] creating /root/Workspace/ros_ws/install/ros_tutorial/share/ament_index/resource_index/packages
+[0.443s] copying resource/ros_tutorial -> /root/Workspace/ros_ws/install/ros_tutorial/share/ament_index/resource_index/packages
+[0.443s] copying package.xml -> /root/Workspace/ros_ws/install/ros_tutorial/share/ros_tutorial
+[0.443s] creating /root/Workspace/ros_ws/install/ros_tutorial/share/ros_tutorial/launch
+[0.443s] copying launch/turtlesim.launch.py -> /root/Workspace/ros_ws/install/ros_tutorial/share/ros_tutorial/launch
+[0.457s] Invoked command in '/root/Workspace/ros_ws/build/ros_tutorial' returned '0': PYTHONPATH=/root/Workspace/ros_ws/build/ros_tutorial/prefix_override:/root/Workspace/ros_ws/install/ros_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /root/Workspace/ros_ws/build/ros_tutorial/build --no-deps install_data

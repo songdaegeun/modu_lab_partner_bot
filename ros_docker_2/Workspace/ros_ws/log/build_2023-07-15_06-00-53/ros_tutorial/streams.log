@@ -1,0 +1,21 @@
+[0.268s] Invoking command in '/root/Workspace/ros_ws/build/ros_tutorial': PYTHONPATH=/root/Workspace/ros_ws/build/ros_tutorial/prefix_override:/root/Workspace/ros_ws/install/ros_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /root/Workspace/ros_ws/build/ros_tutorial/build --no-deps install_data
+[0.380s] running develop
+[0.380s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.380s]   warnings.warn(
+[0.380s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.381s]   warnings.warn(
+[0.434s] running egg_info
+[0.434s] writing ros_tutorial.egg-info/PKG-INFO
+[0.434s] writing dependency_links to ros_tutorial.egg-info/dependency_links.txt
+[0.434s] writing entry points to ros_tutorial.egg-info/entry_points.txt
+[0.434s] writing requirements to ros_tutorial.egg-info/requires.txt
+[0.434s] writing top-level names to ros_tutorial.egg-info/top_level.txt
+[0.435s] reading manifest file 'ros_tutorial.egg-info/SOURCES.txt'
+[0.435s] writing manifest file 'ros_tutorial.egg-info/SOURCES.txt'
+[0.436s] running build_ext
+[0.436s] Creating /root/Workspace/ros_ws/install/ros_tutorial/lib/python3.10/site-packages/ros-tutorial.egg-link (link to .)
+[0.437s] Installing turtlesim_circle script to /root/Workspace/ros_ws/install/ros_tutorial/lib/ros_tutorial
+[0.437s] 
+[0.437s] Installed /root/Workspace/ros_ws/build/ros_tutorial
+[0.437s] running install_data
+[0.451s] Invoked command in '/root/Workspace/ros_ws/build/ros_tutorial' returned '0': PYTHONPATH=/root/Workspace/ros_ws/build/ros_tutorial/prefix_override:/root/Workspace/ros_ws/install/ros_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /root/Workspace/ros_ws/build/ros_tutorial/build --no-deps install_data

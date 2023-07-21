@@ -1,0 +1,17 @@
+[0.287s] Invoking command in '/root/Workspace/ros_ws/build/ros_tutorial': PYTHONPATH=/root/Workspace/ros_ws/build/ros_tutorial/prefix_override:/root/Workspace/ros_ws/install/ros_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /root/Workspace/ros_ws/build/ros_tutorial/build --no-deps install_data
+[0.407s] running develop
+[0.463s] running egg_info
+[0.463s] writing ros_tutorial.egg-info/PKG-INFO
+[0.463s] writing dependency_links to ros_tutorial.egg-info/dependency_links.txt
+[0.463s] writing entry points to ros_tutorial.egg-info/entry_points.txt
+[0.463s] writing requirements to ros_tutorial.egg-info/requires.txt
+[0.463s] writing top-level names to ros_tutorial.egg-info/top_level.txt
+[0.464s] reading manifest file 'ros_tutorial.egg-info/SOURCES.txt'
+[0.465s] writing manifest file 'ros_tutorial.egg-info/SOURCES.txt'
+[0.465s] running build_ext
+[0.465s] Creating /root/Workspace/ros_ws/install/ros_tutorial/lib/python3.10/site-packages/ros-tutorial.egg-link (link to .)
+[0.466s] Installing turtlesim_circle script to /root/Workspace/ros_ws/install/ros_tutorial/lib/ros_tutorial
+[0.466s] 
+[0.466s] Installed /root/Workspace/ros_ws/build/ros_tutorial
+[0.466s] running install_data
+[0.482s] Invoked command in '/root/Workspace/ros_ws/build/ros_tutorial' returned '0': PYTHONPATH=/root/Workspace/ros_ws/build/ros_tutorial/prefix_override:/root/Workspace/ros_ws/install/ros_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /root/Workspace/ros_ws/build/ros_tutorial/build --no-deps install_data
