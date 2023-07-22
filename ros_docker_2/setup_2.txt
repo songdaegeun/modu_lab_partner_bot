@@ -14,5 +14,11 @@ apt install python3-pip
 pip install setuptools==58.2.0
 
 
-echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
-echo "export ROS_DOMAIN_ID=97" >> ~/.bashrc
+/* .bashrc
+source /opt/ros/humble/setup.bash
+alias cw='cd ~/host_dir/Workspace/ros_ws'
+alias sb='source install/setup.bash'
+alias cb='colcon build --symlink-install'
+cw; sb;
+export ROS_DOMAIN_ID=97
+*/

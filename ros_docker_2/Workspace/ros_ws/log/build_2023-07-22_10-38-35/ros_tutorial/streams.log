@@ -1,0 +1,20 @@
+[0.320s] Invoking command in '/root/host_dir/Workspace/ros_ws/build/ros_tutorial': PYTHONPATH=/root/host_dir/Workspace/ros_ws/build/ros_tutorial/prefix_override:/root/host_dir/Workspace/ros_ws/install/ros_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /root/host_dir/Workspace/ros_ws/build/ros_tutorial/build --no-deps install_data
+[0.451s] running develop
+[0.522s] running egg_info
+[0.523s] writing ros_tutorial.egg-info/PKG-INFO
+[0.524s] writing dependency_links to ros_tutorial.egg-info/dependency_links.txt
+[0.524s] writing entry points to ros_tutorial.egg-info/entry_points.txt
+[0.524s] writing requirements to ros_tutorial.egg-info/requires.txt
+[0.525s] writing top-level names to ros_tutorial.egg-info/top_level.txt
+[0.527s] reading manifest file 'ros_tutorial.egg-info/SOURCES.txt'
+[0.529s] writing manifest file 'ros_tutorial.egg-info/SOURCES.txt'
+[0.531s] running build_ext
+[0.531s] Creating /root/host_dir/Workspace/ros_ws/install/ros_tutorial/lib/python3.10/site-packages/ros-tutorial.egg-link (link to .)
+[0.532s] Installing turtlesim_abs_client script to /root/host_dir/Workspace/ros_ws/install/ros_tutorial/lib/ros_tutorial
+[0.533s] Installing turtlesim_abs_server script to /root/host_dir/Workspace/ros_ws/install/ros_tutorial/lib/ros_tutorial
+[0.534s] Installing turtlesim_circle script to /root/host_dir/Workspace/ros_ws/install/ros_tutorial/lib/ros_tutorial
+[0.535s] Installing turtlesim_echo script to /root/host_dir/Workspace/ros_ws/install/ros_tutorial/lib/ros_tutorial
+[0.536s] 
+[0.537s] Installed /root/host_dir/Workspace/ros_ws/build/ros_tutorial
+[0.537s] running install_data
+[0.554s] Invoked command in '/root/host_dir/Workspace/ros_ws/build/ros_tutorial' returned '0': PYTHONPATH=/root/host_dir/Workspace/ros_ws/build/ros_tutorial/prefix_override:/root/host_dir/Workspace/ros_ws/install/ros_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /root/host_dir/Workspace/ros_ws/build/ros_tutorial/build --no-deps install_data
