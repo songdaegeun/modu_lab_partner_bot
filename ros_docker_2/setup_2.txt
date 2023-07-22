@@ -8,8 +8,7 @@ apt install ros-humble-rqt* -y
 apt install ros-humble-turtlesim -y
 apt install ros-humble-demo-nodes-cpp -y
 
-colcon build --symlink-install
-# if get SetuptoolsDeprecationWarning when execute colcon-build
+# if get error: SetuptoolsDeprecationWarning when execute colcon-build
 apt install python3-pip
 pip install setuptools==58.2.0
 

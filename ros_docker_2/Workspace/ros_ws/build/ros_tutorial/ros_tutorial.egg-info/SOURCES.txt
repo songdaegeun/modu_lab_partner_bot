@@ -8,6 +8,8 @@ ros_tutorial/turtlesim_abs_client.py
 ros_tutorial/turtlesim_abs_server.py
 ros_tutorial/turtlesim_circle.py
 ros_tutorial/turtlesim_echo.py
+ros_tutorial/turtlesim_rot_client.py
+ros_tutorial/turtlesim_rot_server.py
 ros_tutorial.egg-info/PKG-INFO
 ros_tutorial.egg-info/SOURCES.txt
 ros_tutorial.egg-info/dependency_links.txt
