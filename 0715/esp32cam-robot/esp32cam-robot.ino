@@ -15,8 +15,8 @@
 #include "soc/rtc_cntl_reg.h"
 
 // Setup Access Point Credentials
-const char* ssid1 = "sdg";
-const char* password1 = "eorms6191!";
+const char* ssid1 = "***";
+const char* password1 = "***";
 
 extern volatile unsigned int  motor_speed;
 extern void robot_stop();
