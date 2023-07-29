@@ -1,0 +1,27 @@
+[0.517s] Invoking command in '/root/host_dir/Workspace/ros_ws/build/urdf_tutorial': PYTHONPATH=/root/host_dir/Workspace/ros_ws/build/urdf_tutorial/prefix_override:/root/host_dir/Workspace/ros_ws/install/urdf_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /root/host_dir/Workspace/ros_ws/build/urdf_tutorial/build --no-deps install_data
+[0.669s] running develop
+[0.740s] running egg_info
+[0.740s] creating urdf_tutorial.egg-info
+[0.741s] writing urdf_tutorial.egg-info/PKG-INFO
+[0.742s] writing dependency_links to urdf_tutorial.egg-info/dependency_links.txt
+[0.744s] writing entry points to urdf_tutorial.egg-info/entry_points.txt
+[0.746s] writing requirements to urdf_tutorial.egg-info/requires.txt
+[0.747s] writing top-level names to urdf_tutorial.egg-info/top_level.txt
+[0.748s] writing manifest file 'urdf_tutorial.egg-info/SOURCES.txt'
+[0.750s] reading manifest file 'urdf_tutorial.egg-info/SOURCES.txt'
+[0.751s] writing manifest file 'urdf_tutorial.egg-info/SOURCES.txt'
+[0.753s] running build_ext
+[0.753s] Creating /root/host_dir/Workspace/ros_ws/install/urdf_tutorial/lib/python3.10/site-packages/urdf-tutorial.egg-link (link to .)
+[0.756s] 
+[0.757s] Installed /root/host_dir/Workspace/ros_ws/build/urdf_tutorial
+[0.757s] running install_data
+[0.758s] creating /root/host_dir/Workspace/ros_ws/install/urdf_tutorial/share/ament_index
+[0.758s] creating /root/host_dir/Workspace/ros_ws/install/urdf_tutorial/share/ament_index/resource_index
+[0.759s] creating /root/host_dir/Workspace/ros_ws/install/urdf_tutorial/share/ament_index/resource_index/packages
+[0.759s] copying resource/urdf_tutorial -> /root/host_dir/Workspace/ros_ws/install/urdf_tutorial/share/ament_index/resource_index/packages
+[0.761s] copying package.xml -> /root/host_dir/Workspace/ros_ws/install/urdf_tutorial/share/urdf_tutorial
+[0.762s] creating /root/host_dir/Workspace/ros_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[0.763s] copying launch/robot_1.launch.py -> /root/host_dir/Workspace/ros_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[0.764s] creating /root/host_dir/Workspace/ros_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[0.765s] copying urdf/robot_1.xacro -> /root/host_dir/Workspace/ros_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[0.790s] Invoked command in '/root/host_dir/Workspace/ros_ws/build/urdf_tutorial' returned '0': PYTHONPATH=/root/host_dir/Workspace/ros_ws/build/urdf_tutorial/prefix_override:/root/host_dir/Workspace/ros_ws/install/urdf_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /root/host_dir/Workspace/ros_ws/build/urdf_tutorial/build --no-deps install_data

@@ -1,0 +1,22 @@
+[0.501s] Invoking command in '/root/host_dir/Workspace/ros_ws/build/ros_tutorial': PYTHONPATH=/root/host_dir/Workspace/ros_ws/build/ros_tutorial/prefix_override:/root/host_dir/Workspace/ros_ws/install/ros_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /root/host_dir/Workspace/ros_ws/build/ros_tutorial/build --no-deps install_data
+[0.644s] running develop
+[0.728s] running egg_info
+[0.731s] writing ros_tutorial.egg-info/PKG-INFO
+[0.732s] writing dependency_links to ros_tutorial.egg-info/dependency_links.txt
+[0.735s] writing entry points to ros_tutorial.egg-info/entry_points.txt
+[0.736s] writing requirements to ros_tutorial.egg-info/requires.txt
+[0.737s] writing top-level names to ros_tutorial.egg-info/top_level.txt
+[0.740s] reading manifest file 'ros_tutorial.egg-info/SOURCES.txt'
+[0.743s] writing manifest file 'ros_tutorial.egg-info/SOURCES.txt'
+[0.745s] running build_ext
+[0.746s] Creating /root/host_dir/Workspace/ros_ws/install/ros_tutorial/lib/python3.10/site-packages/ros-tutorial.egg-link (link to .)
+[0.748s] Installing turtlesim_abs_client script to /root/host_dir/Workspace/ros_ws/install/ros_tutorial/lib/ros_tutorial
+[0.749s] Installing turtlesim_abs_server script to /root/host_dir/Workspace/ros_ws/install/ros_tutorial/lib/ros_tutorial
+[0.750s] Installing turtlesim_circle script to /root/host_dir/Workspace/ros_ws/install/ros_tutorial/lib/ros_tutorial
+[0.751s] Installing turtlesim_echo script to /root/host_dir/Workspace/ros_ws/install/ros_tutorial/lib/ros_tutorial
+[0.752s] Installing turtlesim_rot_client script to /root/host_dir/Workspace/ros_ws/install/ros_tutorial/lib/ros_tutorial
+[0.756s] Installing turtlesim_rot_server script to /root/host_dir/Workspace/ros_ws/install/ros_tutorial/lib/ros_tutorial
+[0.757s] 
+[0.758s] Installed /root/host_dir/Workspace/ros_ws/build/ros_tutorial
+[0.758s] running install_data
+[0.796s] Invoked command in '/root/host_dir/Workspace/ros_ws/build/ros_tutorial' returned '0': PYTHONPATH=/root/host_dir/Workspace/ros_ws/build/ros_tutorial/prefix_override:/root/host_dir/Workspace/ros_ws/install/ros_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /root/host_dir/Workspace/ros_ws/build/ros_tutorial/build --no-deps install_data
