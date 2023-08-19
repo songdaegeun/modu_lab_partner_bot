@@ -1,0 +1,20 @@
+[0.540s] Invoking command in '/root/host_dir/Workspace/ros_ws/build/urdf_tutorial': PYTHONPATH=/root/host_dir/Workspace/ros_ws/build/urdf_tutorial/prefix_override:/root/host_dir/Workspace/ros_ws/install/urdf_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /root/host_dir/Workspace/ros_ws/build/urdf_tutorial/build --no-deps install_data
+[0.690s] running develop
+[0.779s] running egg_info
+[0.780s] writing urdf_tutorial.egg-info/PKG-INFO
+[0.782s] writing dependency_links to urdf_tutorial.egg-info/dependency_links.txt
+[0.783s] writing entry points to urdf_tutorial.egg-info/entry_points.txt
+[0.785s] writing requirements to urdf_tutorial.egg-info/requires.txt
+[0.786s] writing top-level names to urdf_tutorial.egg-info/top_level.txt
+[0.787s] reading manifest file 'urdf_tutorial.egg-info/SOURCES.txt'
+[0.789s] writing manifest file 'urdf_tutorial.egg-info/SOURCES.txt'
+[0.792s] running build_ext
+[0.793s] Creating /root/host_dir/Workspace/ros_ws/install/urdf_tutorial/lib/python3.10/site-packages/urdf-tutorial.egg-link (link to .)
+[0.795s] 
+[0.795s] Installed /root/host_dir/Workspace/ros_ws/build/urdf_tutorial
+[0.796s] running install_data
+[0.798s] copying launch/robot_2.launch.py -> /root/host_dir/Workspace/ros_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[0.799s] copying urdf/lidar.xacro -> /root/host_dir/Workspace/ros_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[0.801s] copying urdf/robot_2.xacro -> /root/host_dir/Workspace/ros_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[0.803s] copying urdf/robot_4.xacro -> /root/host_dir/Workspace/ros_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[0.827s] Invoked command in '/root/host_dir/Workspace/ros_ws/build/urdf_tutorial' returned '0': PYTHONPATH=/root/host_dir/Workspace/ros_ws/build/urdf_tutorial/prefix_override:/root/host_dir/Workspace/ros_ws/install/urdf_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /root/host_dir/Workspace/ros_ws/build/urdf_tutorial/build --no-deps install_data
